@@ -1,4 +1,3 @@
-   ![AI](ai-cover.jpg)
 
 ## 前言
 近年来，虽然出版了一些有关人工智能的优秀著作，但还是不断听到人们抱怨，因为至今还缺少一种适合于大学工科专业半年用的、相当于两个学分的教科书。这种教科书既要简明扼要，又要能涵盖本学科的要点。可能是由于人工智能的研究历史比较短，研究对象涉及的范围又非常广泛，再加上阐明人工智能的学科理论尚未完全确立等原因，造成了目前这种状况。  
@@ -15,7 +14,3 @@
 
 #### 编者
 
-@发起人:[张正轩](<http://www.mindcont.com>)，博客：<http://www.mindcont.com>，Github：<https://github.com/mindcont>
-
-## License
-本站作品由<https://github.com/mindcont/AI>创作，采用[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可](http://creativecommons.org/licenses/by-nc-sa/4.0/)协议进行许可。

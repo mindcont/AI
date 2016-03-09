@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        "disqus",
+        "ga"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "mindcont"
+        },
+        "ga": {
+            "token": "UA-74386502-1"
+        }
+    }
+}

@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "mindcont"
+            "shortName": "alphago"
         },
         "ga": {
             "token": "UA-74386502-1"

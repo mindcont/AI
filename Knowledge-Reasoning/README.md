@@ -8,15 +8,15 @@
 #### [产生式系统](Knowledge-Reasoning/ProductionSystem/index.html)
 | 章节 | 内容 |
 | -- | -- |
-| [产生式系统的构造](ProductionSystem/产生式系统的构造.html| 1:2 |
-| [推理机构的运行](ProductionSystem/推理机构的运行.html | 1:3 |
+| [产生式系统的构造](ProductionSystem/产生式系统的构造.html)| 1:2 |
+| [推理机构的运行](ProductionSystem/推理机构的运行.html) | 1:3 |
 | [理由(Why)和方法(How)](ProductionSystem/理由和方法.html) | 1:4 |
 | [产生式系统的特征](ProductionSystem/产生式系统的特征.html) | 1:5 |
 
 #### [框架](Knowledge-Reasoning/Architecture/index.html)
 | 章节 | 内容 |
 | -- | -- |
-| [典型知识与框架](Architecture/典型知识与框架.html| 1:2 |
+| [典型知识与框架](Architecture/典型知识与框架.html)| 1:2 |
 | [阶层知识与特征的继承](Architecture/阶层知识与特征的继承.html) | 1:3 |
 | [程序知识及其启动](Architecture/程序知识及其启动.html) | 1:4 |
 | [框架的特征](Architecture/框架的特征.html) | 1:5 |

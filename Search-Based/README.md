@@ -5,7 +5,7 @@
 
 本章将对采用**状态空间图的问题**表示方法、采取纵向搜索和横向搜索的**系统的搜索方法**、运用**启发式**(已发现的知识)的搜索方法、表示问题分解的与(AND)/或(OR)图的搜索，以及在计算机国际象棋等方面用到的**博弈树搜索**，进行分析和说明。
 
-####　[搜索与人工智能的关系](Search-Based/The-Relationship/index.html)
+####　[搜索与人工智能的关系](The-Relationship/index.html)
 
 | 章节 | 内容 |
 | -- | -- |
@@ -13,7 +13,7 @@
 | [状态空间表示](The-Relationship/状态空间表示.html) | 1:3 |
 | [与图有关的术语](The-Relationship/与图有关的术语.html) | 1:4 |
 
-####　[逐个搜索](Search-Based/One-by-one-search/index.html)
+####　[逐个搜索](One-by-one-search/index.html)
 
 | 章节 | 内容 |
 | -- | -- |
@@ -24,7 +24,7 @@
 | [横向搜索](One-by-one-search/横向搜索.html)| 1:6 |
 | [均一代价搜索](One-by-one-search/均一代价搜索.html) | 1:7 |
 
-####　[应用智能的搜索](Search-Based/Intelligent-Search/index.html)
+####　[应用智能的搜索](Intelligent-Search/index.html)
 
 | 章节 | 内容 |
 | -- | -- |
@@ -33,11 +33,11 @@
 | [A*算法](Intelligent-Search/A算法.html) | 1:4 |
 | [约束的利用](Intelligent-Search/约束的利用.html)| 1:5 |
 
-#### [对问题进行分割后进行搜索](Search-Based/Split-and-Search/index.html)
+#### [对问题进行分割后进行搜索](Split-and-Search/index.html
 
 | 章节 | 内容 |
 | -- | -- |
 |  [与/或(AND/OR)图表示](Split-and-Search/与或图表示.html) | 1:2 |
 | [与/或(AND/OR)图搜索](Split-and-Search/与或图搜索.html) | 1:3 |
 
-#### [博弈树的搜索](Search-Based/博弈树的搜索.html)
+#### [博弈树的搜索](博弈树的搜索.html

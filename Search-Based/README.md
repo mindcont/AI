@@ -1,5 +1,4 @@
 ## 基于搜索的问题求解
-> 整理:[mindcont](https://github.com/mindcont) - 原著 《人工智能》 [日]沟口理一郎 石田 亨编
 
 人工智能要解决的问题，大部分不具备明确的解题步骤。这类问题可以采用搜索方法解决，但是在解决过程中，会伴随着产生试行错误。
 
@@ -33,11 +32,15 @@
 | [A*算法](Intelligent-Search/A算法.html) | 1:4 |
 | [约束的利用](Intelligent-Search/约束的利用.html)| 1:5 |
 
-#### [对问题进行分割后进行搜索](Split-and-Search/index.html
+#### [对问题进行分割后进行搜索](Split-and-Search/index.html)
 
 | 章节 | 内容 |
 | -- | -- |
 |  [与/或(AND/OR)图表示](Split-and-Search/与或图表示.html) | 1:2 |
 | [与/或(AND/OR)图搜索](Split-and-Search/与或图搜索.html) | 1:3 |
 
-#### [博弈树的搜索](博弈树的搜索.html
+#### [博弈树的搜索](博弈树的搜索.html)
+
+<br>
+
+  > 整理: [张正轩](https://github.com/mindcont) - 原著 《人工智能》 [日]沟口理一郎 石田 亨编

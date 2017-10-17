@@ -2,7 +2,7 @@
 ##起因
 一个偶然的机会，在图书馆发现了这本由[日]沟口理一郎，石田 亨 编，卢伯英译，科学出版社在2003年出版的关于“人工智能”的书，书很薄，打开里面看了几眼，顿感作者高屋建瓴，聊聊几笔，将诺大的人工智能学科说得很透彻，脉络清晰，随萌发一种念头，在自己的网站上，利用GitBook这种工具进行发布并利用当下时兴的GitHub进行协作整理，以启迪后来之青年才俊。
 
-@发起人:[张正轩](<http://www.mindcont.com>)，博客：<http://www.mindcont.com>，Github：<https://github.com/mindcont>。如果您偶然看到了这个页面，并愿意和我一起将本书重新整理，请发送邮件bond@mindcont.com告知，我会对后续事宜与您沟通。
+@发起人:[张正轩](<https://github.com/mindcont/AI>)，博客：<http://blog.mindcont.com>，Github：<https://github.com/mindcont>。如果您偶然看到了这个页面，并愿意和我一起将本书重新整理，请发送邮件bond@mindcont.com告知，我会对后续事宜与您沟通。
 
 2016年3月7日
 
